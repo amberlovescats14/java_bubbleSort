@@ -8,7 +8,7 @@ public class Main {
 //            System.out.println(arr[i]);
 //        }
     }
-    public static int[] bubbleSort(int [] arr){
+    public static void bubbleSort(int [] arr){
         //new array
         int[] sortingArray = new int[arr.length];
         //assign the variable array to sortingArray
